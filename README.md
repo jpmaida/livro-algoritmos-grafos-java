@@ -5,4 +5,4 @@ Foi utilizada a JDK 1.8 para o desenvolvimento deste projeto mas é possível re
 
 Boa leitura e bom estudo.
 
-Dúvidas, críticas ou sugestões mandar e-mail para `jpmaida@gmail.com`.
+Dúvidas, críticas ou sugestões ? Abra uma issue :D
